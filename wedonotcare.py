@@ -13,7 +13,7 @@ async def on_message(message) :
         await message.channel.send("Hey <@{}>!".format(Fuckyou), file=discord.File("video.mov"))
 
 
-bot.run("Mzk1NzUwMjUzNjQ0NjExNTg1.X8wbwg.MgYgoSvK1Pfp7xvp_MPLJj0BCuc", bot = False)
+bot.run("put your token here", bot = False)
 
 
 
